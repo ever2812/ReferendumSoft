@@ -1,0 +1,131 @@
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmLogin.resources
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.pdb
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.exe
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.pdb
+c:\users\hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmHome.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_electores.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\MySql.Data.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Google.Protobuf.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Zstandard.Net.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Renci.SshNet.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Buffers.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\MySql.Data.xml
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.REFERENDUM-SOFT.exe.config
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmAviso.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmDialogresult.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmRepresentantes.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_afavor.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresRep.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csprojResolveAssemblyReference.cache
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe.config
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.exe
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.pdb
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.pdb
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmAviso.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmDialogresult.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_afavor.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresRep.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmRepresentantes.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_electores.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmHome.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmLogin.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.Properties.Resources.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.GenerateResource.Cache
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresFavor.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresFavor.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmEligeRepresentante.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmEligeRepresentante.resources
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csprojResolveAssemblyReference.cache
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Google.Protobuf.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Zstandard.Net.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\BouncyCastle.Crypto.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Ubiety.Dns.Core.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Renci.SshNet.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Buffers.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Hash.xxHash.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\MySql.Data.xml
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.REFERENDUM-SOFT.exe.config
+E:\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmReporteRep.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmVotantes_Rep.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe.config
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.pdb
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Google.Protobuf.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Zstandard.Net.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Renci.SshNet.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Memory.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Buffers.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\MySql.Data.xml
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.AssemblyReference.cache
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.exe.config
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmAviso.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmDialogresult.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_afavor.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresRep.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmEligeRepresentante.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmVotantes_Rep.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmRepresentantes.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_electores.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmHome.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresFavor.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmLogin.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.Properties.Resources.resources
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.GenerateResource.cache
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.CoreCompileInputs.cache
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.CopyComplete
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.exe
+C:\Users\Ever\Documents\proyectos_vs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.pdb
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe.config
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.exe
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\REFERENDUM-SOFT.pdb
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Google.Protobuf.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Zstandard.Net.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\BouncyCastle.Crypto.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Ubiety.Dns.Core.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\Renci.SshNet.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Memory.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Buffers.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Compression.LZ4.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\K4os.Hash.xxHash.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\bin\Debug\MySql.Data.xml
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csprojAssemblyReference.cache
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.exe.config
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmAviso.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmDialogresult.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_afavor.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresRep.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmEligeRepresentante.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmVotantes_Rep.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmRepresentantes.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmgestion_electores.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmHome.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.frmLista_electoresFavor.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\PharmaSoft.frmLogin.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM_SOFT.Properties.Resources.resources
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.GenerateResource.cache
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.CoreCompileInputs.cache
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.csproj.CopyComplete
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.exe
+D:\VsProjetcs\REFERENDUM-SOFT\REFERENDUM-SOFT\obj\Debug\REFERENDUM-SOFT.pdb

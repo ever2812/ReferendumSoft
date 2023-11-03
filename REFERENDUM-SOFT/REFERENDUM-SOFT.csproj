@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B98AD25-DAAD-4E58-B93B-0473CE85F963}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>REFERENDUM_SOFT</RootNamespace>
+    <AssemblyName>REFERENDUM-SOFT</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.23.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAviso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAviso.designer.cs">
+      <DependentUpon>frmAviso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDialogresult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDialogresult.designer.cs">
+      <DependentUpon>frmDialogresult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgestion_favor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgestion_favor.Designer.cs">
+      <DependentUpon>frmgestion_favor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLista_electoresRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLista_electoresRep.Designer.cs">
+      <DependentUpon>frmLista_electoresRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEligeRepresentante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEligeRepresentante.Designer.cs">
+      <DependentUpon>frmEligeRepresentante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVotantes_Rep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVotantes_Rep.Designer.cs">
+      <DependentUpon>frmVotantes_Rep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRepresentantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRepresentantes.Designer.cs">
+      <DependentUpon>frmRepresentantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgestion_electores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgestion_electores.Designer.cs">
+      <DependentUpon>frmgestion_electores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLista_electoresFavor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLista_electoresFavor.Designer.cs">
+      <DependentUpon>frmLista_electoresFavor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mysql\conexion.cs" />
+    <Compile Include="otros.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAviso.resx">
+      <DependentUpon>frmAviso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDialogresult.resx">
+      <DependentUpon>frmDialogresult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgestion_favor.resx">
+      <DependentUpon>frmgestion_favor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLista_electoresRep.resx">
+      <DependentUpon>frmLista_electoresRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEligeRepresentante.resx">
+      <DependentUpon>frmEligeRepresentante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVotantes_Rep.resx">
+      <DependentUpon>frmVotantes_Rep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRepresentantes.resx">
+      <DependentUpon>frmRepresentantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgestion_electores.resx">
+      <DependentUpon>frmgestion_electores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLista_electoresFavor.resx">
+      <DependentUpon>frmLista_electoresFavor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
